@@ -17,6 +17,6 @@ This Rock Paper Scissors game is implemented using HTML, CSS, and JavaScript. It
 
 ## Gameplay
 
-To play the Rock Paper Scissors game, simply open the `RockPaperScissorsCSS.html` file in any web browser. Enjoy the intuitive interface, keep track of your score, and experience an immersive gaming session that showcases my adeptness in creating interactive web applications.
+To play the Rock Paper Scissors game, simply clone this repository into your local machine and open the `RockPaperScissorsCSS.html` file in any web browser. Enjoy the intuitive interface, keep track of your score, and experience an immersive gaming session that showcases my adeptness in creating interactive web applications.
 
 
